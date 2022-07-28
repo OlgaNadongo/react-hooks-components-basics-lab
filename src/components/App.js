@@ -17,7 +17,7 @@ function Home() {
 }
 
 
-// {/* write an <About> component here */}
+
 function About() {
   return (
     <div id="about">
